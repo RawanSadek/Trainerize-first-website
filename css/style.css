@@ -555,7 +555,7 @@ button:hover{
 /* *************************************************section 5****************************************************** */
 .section5 {
     position: relative;
-    background-image: url(../images/section5-background.jpg);
+    background-image: url(../Images/section5-background.jpg);
     height: 350px;
     background-size: cover;
     background-attachment: fixed;
@@ -866,7 +866,7 @@ button:hover{
 /* *************************************************section 8****************************************************** */
 .section8{
     position: relative;
-    background-image: url(../images/offers2.jpeg);
+    background-image: url(../Images/offers2.jpeg);
     height: 350px;
     background-size: cover;
     background-attachment: fixed;
